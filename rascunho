@@ -1,0 +1,17 @@
+Sistema 
+- usuario Claudio 
+- usuario Fred
+-- usuario Ivan
+--- usuario Mariana
+---- usuario Lucas
+----- usuario Thayna
+-- usuario Zinda
+
+- iniciante = 0 cadastro 
+- junior = 1 cadastro 
+- diretor = 3 cadastro 
+diretor senior = 5 cadastro 
+executivo = 10 cadastro 
+
+- login na conta e cadastro 
+- kistar os meus cadastros ate o nivel 
